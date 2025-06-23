@@ -1,0 +1,108 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "practiceAreas": "Practice Areas",
+    "attorneys": "Attorneys",
+    "contact": "Contact"
+  },
+  "language": {
+    "en": "English",
+    "fr": "French"
+  },
+  "hero": {
+    "title": "PMG Advocates",
+    "subtitle": "Excellence in Legal Services",
+    "tagline": "Trusted legal expertise across Rwanda and France, delivering strategic solutions for complex business challenges.",
+    "description": "A leading law firm with offices in Kigali and Paris, providing comprehensive legal solutions for businesses and individuals.",
+    "cta": "Book Consultation"
+  },
+  "modal": {
+    "title": "Book a Consultation",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "message": "Message",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "success": "Thank you for your interest. We will contact you shortly."
+  },
+  "practiceAreas": {
+    "title": "Practice Areas",
+    "subtitle": "Our expertise spans across key areas of business and corporate law",
+    "corporateLaw": {
+      "title": "Corporate Law",
+      "description": "Comprehensive legal solutions for businesses, including company formation, corporate governance, and regulatory compliance.",
+      "longDescription": "Our corporate law practice provides comprehensive legal services to businesses of all sizes. We assist with company formation, corporate restructuring, mergers and acquisitions, joint ventures, and corporate governance. Our team has extensive experience in drafting and negotiating commercial contracts, shareholder agreements, and ensuring regulatory compliance."
+    },
+    "businessLaw": {
+      "title": "Business Law",
+      "description": "Expert guidance in commercial transactions, contracts, and business operations across jurisdictions.",
+      "longDescription": "Our business law practice offers strategic legal solutions to help businesses thrive in today's complex market environment. We provide comprehensive advice on contract law, commercial transactions, business structuring, and risk management. Our expertise extends to regulatory compliance, business licensing, and dispute resolution."
+    },
+    "litigation": {
+      "title": "Litigation",
+      "description": "Strategic representation in civil and commercial disputes, with a focus on achieving optimal outcomes.",
+      "longDescription": "Our litigation practice represents clients in complex civil and commercial disputes across multiple jurisdictions. We handle cases involving contract disputes, shareholder conflicts, employment issues, and intellectual property rights. Our team excels in both traditional litigation and alternative dispute resolution methods."
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property",
+      "description": "Protection and management of intellectual property rights, including patents, trademarks, and copyrights.",
+      "longDescription": "Our intellectual property practice helps clients protect and monetize their valuable IP assets. We handle all aspects of IP law, including patent applications, trademark registration, copyright protection, and trade secret management. Our services cover IP portfolio management, licensing agreements, and technology transfers."
+    }
+  },
+  "attorneys": {
+    "title": "Our Attorneys",
+    "subtitle": "Meet our team of experienced legal professionals",
+    "clickForMore": "Click for details",
+    "bio": "Biography",
+    "education": "Education",
+    "barAdmissions": "Bar Admissions",
+    "expertise": "Areas of Expertise",
+    "languages": "Languages",
+    "positions": {
+      "managingPartner": "Managing Partner",
+      "seniorPartner": "Senior Partner"
+    },
+    "mucyo": {
+      "bio": "Donatien Mucyo is the Managing Partner at PMG Advocates, with extensive experience in corporate and business law. He has successfully advised numerous multinational corporations on their operations in Rwanda and the East African region."
+    },
+    "gisagara": {
+      "bio": "Richard Gisagara is a Senior Partner based in our Paris office, specializing in international litigation and corporate law. With over 15 years of experience, he has represented clients in complex cross-border disputes and transactions."
+    },
+    "paruelle": {
+      "bio": "Gilles Paruelle is a Senior Partner in our Paris office, focusing on international business law and tax advisory. His expertise in French and European business law has been instrumental in serving our international clientele."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to discuss your legal needs? Contact our offices in Kigali or Paris for expert legal advice.",
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "service": "Legal Service",
+      "selectService": "Select a service",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your legal needs...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Message Sent Successfully!",
+        "message": "Thank you for contacting us. We will review your message and get back to you within 24 hours."
+      }
+    }
+  },
+  "footer": {
+    "description": "Leading law firm providing comprehensive legal solutions across Rwanda and France. We combine local expertise with international standards to deliver exceptional results for our clients.",
+    "quickLinks": "Quick Links",
+    "practiceAreas": "Practice Areas",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  }
+} 

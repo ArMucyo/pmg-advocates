@@ -1,0 +1,108 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "practiceAreas": "Domaines d'Expertise",
+    "attorneys": "Avocats",
+    "contact": "Contact"
+  },
+  "language": {
+    "en": "Anglais",
+    "fr": "Français"
+  },
+  "hero": {
+    "title": "PMG Advocates",
+    "subtitle": "Excellence en Services Juridiques",
+    "tagline": "Expertise juridique de confiance au Rwanda et en France, offrant des solutions stratégiques pour les défis commerciaux complexes.",
+    "description": "Un cabinet d'avocats de premier plan avec des bureaux à Kigali et à Paris, offrant des solutions juridiques complètes aux entreprises et aux particuliers.",
+    "cta": "Réserver une Consultation"
+  },
+  "modal": {
+    "title": "Réserver une Consultation",
+    "fullName": "Nom Complet",
+    "email": "Email",
+    "phone": "Numéro de Téléphone",
+    "message": "Message",
+    "cancel": "Annuler",
+    "submit": "Envoyer",
+    "success": "Merci pour votre intérêt. Nous vous contacterons bientôt."
+  },
+  "practiceAreas": {
+    "title": "Domaines d'Expertise",
+    "subtitle": "Notre expertise couvre les domaines clés du droit des affaires et du droit des sociétés",
+    "corporateLaw": {
+      "title": "Droit des Sociétés",
+      "description": "Solutions juridiques complètes pour les entreprises, incluant la constitution de sociétés, la gouvernance d'entreprise et la conformité réglementaire.",
+      "longDescription": "Notre pratique du droit des sociétés fournit des services juridiques complets aux entreprises de toutes tailles. Nous assistons nos clients dans la formation d'entreprises, la restructuration, les fusions-acquisitions, les coentreprises et la gouvernance d'entreprise. Notre équipe possède une vaste expérience dans la rédaction et la négociation de contrats commerciaux et d'accords d'actionnaires."
+    },
+    "businessLaw": {
+      "title": "Droit des Affaires",
+      "description": "Conseil expert en transactions commerciales, contrats et opérations commerciales à travers les juridictions.",
+      "longDescription": "Notre pratique du droit des affaires propose des solutions juridiques stratégiques pour aider les entreprises à prospérer dans l'environnement commercial complexe d'aujourd'hui. Nous fournissons des conseils complets sur le droit des contrats, les transactions commerciales, la structuration d'entreprise et la gestion des risques."
+    },
+    "litigation": {
+      "title": "Contentieux",
+      "description": "Représentation stratégique dans les litiges civils et commerciaux, avec un accent sur l'obtention de résultats optimaux.",
+      "longDescription": "Notre pratique du contentieux représente les clients dans des litiges civils et commerciaux complexes dans plusieurs juridictions. Nous traitons les affaires impliquant des différends contractuels, des conflits entre actionnaires, des questions d'emploi et des droits de propriété intellectuelle."
+    },
+    "intellectualProperty": {
+      "title": "Propriété Intellectuelle",
+      "description": "Protection et gestion des droits de propriété intellectuelle, y compris les brevets, les marques et les droits d'auteur.",
+      "longDescription": "Notre pratique de la propriété intellectuelle aide les clients à protéger et à valoriser leurs actifs de PI. Nous gérons tous les aspects du droit de la propriété intellectuelle, y compris les demandes de brevets, l'enregistrement des marques, la protection des droits d'auteur et la gestion des secrets commerciaux."
+    }
+  },
+  "attorneys": {
+    "title": "Nos Avocats",
+    "subtitle": "Rencontrez notre équipe de professionnels juridiques expérimentés",
+    "clickForMore": "Cliquez pour plus de détails",
+    "bio": "Biographie",
+    "education": "Formation",
+    "barAdmissions": "Admissions au Barreau",
+    "expertise": "Domaines d'Expertise",
+    "languages": "Langues",
+    "positions": {
+      "managingPartner": "Associé Gérant",
+      "seniorPartner": "Associé Principal"
+    },
+    "mucyo": {
+      "bio": "Donatien Mucyo est Associé Gérant chez PMG Advocates, avec une vaste expérience en droit des sociétés et droit des affaires. Il a conseillé avec succès de nombreuses sociétés multinationales dans leurs opérations au Rwanda et dans la région d'Afrique de l'Est."
+    },
+    "gisagara": {
+      "bio": "Richard Gisagara est Associé Principal basé dans notre bureau de Paris, spécialisé en contentieux international et droit des sociétés. Avec plus de 15 ans d'expérience, il a représenté des clients dans des litiges et transactions transfrontaliers complexes."
+    },
+    "paruelle": {
+      "bio": "Gilles Paruelle est Associé Principal dans notre bureau de Paris, spécialisé en droit international des affaires et conseil fiscal. Son expertise en droit des affaires français et européen a été déterminante pour servir notre clientèle internationale."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prêt à discuter de vos besoins juridiques ? Contactez nos bureaux de Kigali ou Paris pour des conseils juridiques experts.",
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Nom Complet",
+      "namePlaceholder": "Entrez votre nom complet",
+      "email": "Adresse Email",
+      "emailPlaceholder": "Entrez votre adresse email",
+      "phone": "Numéro de Téléphone",
+      "phonePlaceholder": "Entrez votre numéro de téléphone",
+      "service": "Service Juridique",
+      "selectService": "Sélectionnez un service",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de vos besoins juridiques...",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en cours...",
+      "success": {
+        "title": "Message Envoyé avec Succès !",
+        "message": "Merci de nous avoir contactés. Nous examinerons votre message et vous répondrons dans les 24 heures."
+      }
+    }
+  },
+  "footer": {
+    "description": "Cabinet d'avocats de premier plan fournissant des solutions juridiques complètes au Rwanda et en France. Nous combinons l'expertise locale avec les standards internationaux pour offrir des résultats exceptionnels à nos clients.",
+    "quickLinks": "Liens Rapides",
+    "practiceAreas": "Domaines d'Expertise",
+    "allRightsReserved": "Tous droits réservés.",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d'Utilisation"
+  }
+} 
